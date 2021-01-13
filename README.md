@@ -8,4 +8,4 @@ Tools > Global Options... > Appearance tab, and under Editor theme select 'Add..
 
 ![](screenshots/img1.png)
 
-![]screenshots/img2.png
+![](screenshots/img2.png)
